@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PkDark677/Pet-sim-99-gem-spawner/refs/heads/main/Gem%20spawner", true))()
